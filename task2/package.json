@@ -1,0 +1,12 @@
+{
+    "name": "availity-list-validator",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "jest": "^29.7.0"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "type": "module"
+}
