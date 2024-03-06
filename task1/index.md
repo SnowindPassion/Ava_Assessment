@@ -1,0 +1,9 @@
+
+### Tell me about something you have read recently that you would recommend and why. (Can be a Github Repo, Article, Blog, Book, etc.) 
+I recently came across a super helpful article called ["A Comprehensive Guide to Convolutional Neural Networks — the ELI5 Way"](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53) by Sumit Saha on Towards Data Science. It's a fantastic read for anyone wanting to get a grip on CNNs, especially if you're new to the topic. The article breaks down CNNs in a really simple and easy-to-understand way, covering the basics like how they work, their structure, and what they're used for.
+
+One thing that stood out to me in the article is how it explains why CNNs are so powerful compared to other types of neural networks, especially for tasks like recognizing images. For example, let's say you have a dataset of images containing cats and dogs. A traditional neural network would treat each pixel in the image as a separate feature, which can be computationally expensive and may not capture the spatial relationships between features well. On the other hand, a CNN is designed to understand the spatial relationships in an image. It uses filters to convolve over the image, capturing patterns like edges and shapes in early layers and more complex features like faces or objects in later layers. This allows CNNs to learn hierarchical representations of features, making them much more effective for tasks like image recognition.
+
+This example really highlights the power of CNNs over other types of neural networks, as they can learn and understand the features of an image in a much more efficient and effective way. This makes the article a must-read for anyone interested in AI and CNNs, as it lays out their advantages and uses in a clear and understandable way.
+
+When you have, please ... 
